@@ -7,5 +7,3 @@ This project aims to reach all those who are undergoing mentally strenuous times
 The main reason why this project is essential is because of how desperately people need a safe space where they can just be themselves without any distractions and just let their hearts out, having some alone time for themselves with this age of social business.
 
 The main benefit of this project will be for those who forget to make time for themselves. It will also benefit those undergoing tremendous mental strain and all those who feel alone or those who feel different. Our project also aims at connecting all those who are undergoing the same issues so that they will finally feel as if they have company.
-
-We aim to do this by creating a website using HTML, CSS and JavaScript.
