@@ -19,7 +19,6 @@
   margin-bottom: 20px;
   margin-right: 10px;
   float: right;
-  display:inline-block;
   position:relative;
 }
 
@@ -122,4 +121,98 @@ button {
 
 .explain {
   line-height: 5px;
+}
+
+.col {
+  font-size: 50px;
+}
+
+.container1 {
+  /* align-items: center;*/
+  margin-left: 130px;
+  margin-top: 60px;
+}
+
+.pic1 {
+  /* position: absolute; */
+  height:180px ;
+  width: 180px;
+  top: 150px;
+  margin: 30px;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: black;
+  box-shadow:0 4px 10px rgba(0,0,0,0.2);
+  /* box-sizing: border-box; */
+  /* right: 190px; */
+}
+
+.pic1:hover{
+  transform: scale(1.1);
+  transition: all 1s ease;
+  cursor: pointer;
+}
+
+#heading1 {
+  margin-left: 95px;
+  font-family: 'Comfortaa', cursive;
+  /* position: absolute; */
+}
+
+#heading2 {
+  margin-left: 100px;
+  font-family: 'Comfortaa', cursive;
+  /* position: absolute; */
+}
+
+.space {
+  padding-left: 12em;
+  font-family: 'Comfortaa', cursive;
+}
+
+.space2 {
+  padding-left: 10.5em;
+  font-family: 'Comfortaa', cursive;
+}
+
+.tabs button{
+  font-weight: bold;
+  color:black;
+  transition:all .5s ease;
+  cursor:pointer;
+  width: 230px;
+  margin-left: 16px;
+  /* margin: 30px; */
+  /* position: relative; */
+  /* background-color: transparent; */
+}
+
+.tabs button a{
+  color: black
+}
+
+/*DANCE*/
+.Navbar .dance {
+  font-weight: bold;
+  color: white;
+  font-size: 2em;
+  font-weight: 900;
+	position: absolute;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.check{
+  margin-bottom: 20px;
+  margin-left: 5px;
+  font-family: 'Comfortaa', cursive;
+  font-size: large;
+}
+
+.tuts {
+  margin: 40px;
+}
+
+.Dpic {
+  width: 1000px;
 }
